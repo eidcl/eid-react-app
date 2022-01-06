@@ -1,3 +1,8 @@
+> 1° npx create-next-app nextjs-blog --use-npm --example "https://github.com/eid/eid-react-app"
+> 1° set the package.json name to your project name.
+> 2° delete package.lock and do npm install
+> 3° delete .git and do a new git init
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
