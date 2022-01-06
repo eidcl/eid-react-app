@@ -1,4 +1,4 @@
-> 1° npx create-next-app nextjs-blog --use-npm --example "https://github.com/eid/eid-react-app"
+> 1° npx create-next-app nextjs-blog --use-npm --example "https://github.com/eidcl/eid-react-app/tree/main"
 
 > 2° set the package.json name to your project name.
 
